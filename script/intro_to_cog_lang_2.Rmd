@@ -1,0 +1,44 @@
+---
+title: "Introduction to Cognition - Language 2"
+author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
+date: ""
+output: 
+ html_document:
+  theme: flatly
+  toc: true
+  toc_float: true
+---
+
+# Overview
+
+[video1 - info about this session]
+
+[video2 - what is language?]
+
+[video3 - speech production]
+
+[video4 -TOTs and picture/word interference]
+
+[video5 - speech errors]
+
+[video6 -speech perception]
+
+[video7 - models plus evidence]
+
+[video8 - summary]
+
+&nbsp;&nbsp;
+
+In the next video, you'll see Keith Rayner - one of most influential researchers into eye-movements and reading - give an overview of the processes by which the eyes move during reading.
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zQmf5TkJrJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
+
