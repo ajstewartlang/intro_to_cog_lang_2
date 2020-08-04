@@ -11,6 +11,9 @@ output:
 
 # Overview
 
+Intro
+add link to textbook chapter
+
 [video1 - info about this session]
 
 [video2 - what is language?]
